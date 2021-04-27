@@ -10,7 +10,7 @@ namespace PartsUnlimited.Models
         public int ManufacturerId { get; set; }
 
         [Required]
-        public string Name { get; set; } //dfsdfd dfsfadsfsda
+        public string Name { get; set; } //dfsdfd dfsfadsfsda dfsadfasdf
     }
 }
  // dfadsfads dfsdfad dfsdfsda
